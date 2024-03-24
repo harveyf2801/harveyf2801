@@ -5,7 +5,9 @@ Hello! I'm a student studying BSc Sound Engineering and Production at Birmingham
 ## About Me
 
 🎧 Currently pursuing a degree in Sound Engineering and Production.
+
 💻 Interested in software development, exploring new technologies, and building innovative solutions.
+
 🧠 Fascinated by deep learning and its applications in solving real-world problems.
 
 ## What You'll Find Here
