@@ -1,10 +1,10 @@
 # Welcome to My GitHub Profile!
 
-Hello! I'm a student studying BSc Sound Engineering and Production at Birmingham City University with a passion for software development and deep learning.
+Hello! I'm a Software Engineer at Audient, with a degree in BSc Sound Engineering and Production from Birmingham City University. I have a passion for software development and deep learning.
 
 ## About Me
 
-🎧 Currently pursuing a degree in Sound Engineering and Production.
+🎧 I have graduated with a degree in Sound Engineering and Production.
 
 💻 Interested in software development, exploring new technologies, and building innovative solutions.
 
