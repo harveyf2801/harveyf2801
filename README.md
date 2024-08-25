@@ -22,6 +22,10 @@ Feel free to reach out via email [hgfretwell\@gmail.com](mailto:hgfretwell@gmail
 
 I'm open to collaborating on projects or discussing ideas. If you have something in mind, don't hesitate to get in touch!
 
+## Licencing
+
+If a repository doesn't contain a license specifically, refer to the following general license provided [here](https://github.com/harveyf2801/harveyf2801/tree/main#License-1-ov-file).
+
 ## Thanks for Stopping By!
 
 Thank you for visiting my GitHub profile. Feel free to explore my projects and reach out if you have any questions or suggestions!
