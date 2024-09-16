@@ -8,7 +8,7 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
    "You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.
 
-   "Work" shall mean the contents of all repositories hosted by the user "harveyf2801" that do not contain an existing "LICENSE.txt" file.
+   "Work" shall mean the contents of all repositories hosted by the user "harveyf2801".
 
 2. Grant of License.
 
