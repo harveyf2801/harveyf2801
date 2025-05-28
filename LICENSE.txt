@@ -12,7 +12,7 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
 2. Grant of License.
 
-   Subject to the terms and conditions of this License, Licensor hereby grants You a non-exclusive, worldwide, royalty-free, non-transferable license to use, copy, and distribute the Work for non-commercial purposes only.
+   Subject to the terms and conditions of this License, Licensor hereby grants You a non-exclusive, worldwide, royalty-free, non-transferable license to use and copy the Work for non-commercial purposes only.
 
 3. Restrictions.
 
